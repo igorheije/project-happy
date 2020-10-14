@@ -72,7 +72,7 @@ function toggleSelect(event) {
   button.classList.add("active");
   // pegar o botao clicado
 
-  //verificar
+  //verificar 
 
   //atualizar o meu input hidden
   const input = document.querySelector('[name="open_on_weekends"]');
